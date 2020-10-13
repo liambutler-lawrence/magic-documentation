@@ -1,3 +1,3 @@
-# Learn To Count (Magic)
+# Magic
 
-Public documentation for Learn To Count app
+Public documentation for Magic apps
